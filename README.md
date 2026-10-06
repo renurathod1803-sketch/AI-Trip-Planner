@@ -2,6 +2,9 @@
 AI-based personalized travel planning website
 # AI Trip Planner
 
+## Summary
+AI Trip Planner is a simple AI-inspired travel planning website that creates personalized trip itineraries based on the user's destination, number of days, budget, travel style, and interests.
+
 ## Project Overview
 
 AI Trip Planner is a web-based travel planning prototype that creates a personalized day-by-day travel itinerary based on a user's destination, trip duration, budget, travel style, and interests.
